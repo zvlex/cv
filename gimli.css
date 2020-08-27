@@ -1,0 +1,119 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 14px;
+  margin: 0 auto;
+  padding: 0 3em 0 3em;
+}
+
+.company a {
+	color: #000;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+h1 {
+  /*color: #797979;*/
+  color: #f7f3f3;
+  font-weight: 700;
+}
+
+h2 {
+  color: #797979;
+  font-weight: 500;
+}
+
+h2 span {
+  border-bottom: #000 solid 1px;
+  font-size: 0.8em;
+}
+
+h3 {
+  padding: 3px;
+  margin: 0;
+  font-size: 1.3em;
+  font-weight: 600;
+  color: #1d1d1d;
+}
+
+.info {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.info li {
+  margin: 0;
+}
+
+.info-name {
+  font-weight: 600;
+}
+
+.info-value a {
+  text-decoration: none;
+  color: #000;
+}
+
+section nav.job_description ul {
+  list-style: none;
+  padding-left: 1em;
+}
+
+.skill-type {
+  font-weight: 600;
+}
+
+.skill-section {
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+}
+
+.role {
+  font-size: 1.2em;
+  padding-left: 0.2em;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills ul li {
+}
+
+.header-block {
+  background-color: #232323;
+  padding: 1em 0 0.8em 1em;
+}
+
+.left-side {
+  padding-top: 1em;
+  padding-left: 2em;
+}
+
+.menu-header {
+  margin-bottom: 1.3em;
+}
+
+.right-side {
+  padding-top: 1em;
+}
+
+.skills {
+  margin-bottom: 2em;
+}
+
+.personal-info {
+  margin-bottom: 2em;
+}
+
+.other-block {
+  margin-bottom: 1.5em;
+}
+
+.skill-item {
+  margin-bottom: 0.3em;
+}
